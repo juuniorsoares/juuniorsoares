@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👩🏻‍💻 Junior Soares
 
-<!--
-**juuniorsoares/juuniorsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Com mais de 2 anos de experiência, estou.  
+mergulhando no mundo da programação, buscando constantemente formas de aprimorar minhas habilidades a cada dia. Meu objetivo é me tornar um Desenvolvedor Front-end de sucesso,
+agregando positivamente para a empresa.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desde criança sou fascinado por tecnologia e desde que descobri a programação minha paixão por essa área só cresceu. Mantenho-me constantemente atualizado com as últimas tendências e avanços do setor.
+
+<p align="left">
+    <a href="https://github.com/juuniorsoares?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/juuniorsoares?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/juniorsoares?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/juuniorsoares?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=juuniorsoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuniorsoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+

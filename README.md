@@ -6,7 +6,7 @@ Com mais de 2 anos de experiência, estou.
 mergulhando no mundo da programação, buscando constantemente formas de aprimorar minhas habilidades a cada dia. Meu objetivo é me tornar um Desenvolvedor Front-end de sucesso,
 agregando positivamente para a empresa.
 
-Desde criança sou fascinado por tecnologia e desde que descobri a programação minha paixão por essa área só cresceu. Mantenho-me constantemente atualizado com as últimas tendências e avanços do setor.
+Sou fascinado por tecnologia e desde que descobri a programação minha paixão por essa área só cresceu. Mantenho-me constantemente atualizado com as últimas tendências e avanços do setor.
 
 <p align="left">
     <a href="https://github.com/juuniorsoares?tab=repositories&sort=stargazers">
